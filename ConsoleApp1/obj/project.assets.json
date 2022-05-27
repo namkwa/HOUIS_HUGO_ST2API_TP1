@@ -40,11 +40,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cours\\M1\\Csharp\\TP1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\cours\\M1\\fontana C#\\TP1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\cours\\M1\\Csharp\\TP1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\cours\\M1\\fontana C#\\TP1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\hhoui\\.nuget\\packages\\",
-      "outputPath": "D:\\cours\\M1\\Csharp\\TP1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\cours\\M1\\fontana C#\\TP1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hhoui\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
