@@ -33,7 +33,7 @@ namespace ConsoleApp1 {
             tree.Append(new String(' ', sizeTree - 2));
             tree.Append("| |");
             tree.Append(new String(' ', sizeTree - 2));
-            Console.Write(tree.ToString());
+            Console.WriteLine(tree.ToString());
         }
     }
 }

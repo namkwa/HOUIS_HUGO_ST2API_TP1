@@ -40,7 +40,6 @@ namespace ConsoleApp1 {
                         } else if (i == 1 || i == N) {
                             result.Append("-");
                         } else if (j % 3 == i % 3) {
-                            Console.WriteLine(i);
                             result.Append("*");
                         } else {
                             result.Append(" ");
